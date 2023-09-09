@@ -6,3 +6,5 @@ Carving my path as a full-stack developer, I have previously worked with Minecra
 - 📚 Javascript / PHP / Python
 - 🏗️ Laravel
 - 🌐 Linux / Apache 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q14F2OD)
